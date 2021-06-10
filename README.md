@@ -12,5 +12,7 @@
 <a href="https://instagram.com/curious_wiki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="curious_wiki" height="30" width="40" /></a>
 <a href="https://medium.com/@vj_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vj_codes" height="30" width="40" /></a>
 </p>
-
+<h3 align="left">Profile views:</h3>
+<p align="left">
+  
 ![Visitor Count](https://profile-counter.glitch.me/{vj-codes}/count.svg) 

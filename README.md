@@ -3,7 +3,7 @@
 - 💬 Ask me about React, Python, Kotlin and UI/UX
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to play Minecraft and I have 2 dogs:) <br><br>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vj-codes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![GitHub stats](https://readme-stats.clckblog.space/api?username=vj-codes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vj-codes&theme=radical)](https://git.io/streak-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">

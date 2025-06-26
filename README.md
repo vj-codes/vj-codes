@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about React, Python, Kotlin and UI/UX
+
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to play Minecraft and I have 2 dogs:) <br><br>
 [![GitHub stats](https://readme-stats.clckblog.space/api?username=vj-codes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
